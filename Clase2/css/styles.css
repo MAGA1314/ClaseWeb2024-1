@@ -28,8 +28,21 @@ body{
 .profile__name{
     font-size: 20px;
     color: #AC3FEA;
+}
+section button > p{
+    font-size: 30px;
+}
+section button:first-child{
+    background-color: #b2d4eb;
+}
+button{
+    border-radius: 20%;
+    flex-direction: column;
+}
+main > section{
 
-
-
-    
+}
+.dos{
+    display: flex;
+    flex-direction:row;
 }
